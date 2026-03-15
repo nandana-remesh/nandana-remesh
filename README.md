@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Nandana! 👋
 
-<!--
-**nandana-remesh/nandana-remesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd year B.Tech Computer Science Student  
+💻 Passionate about technology and building things
+🚀 Looking for internship opportunities  
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I'm currently focused on my cs core subjects
+- 👁️ Soon diving into **Web Development**
+- 👯 I'm looking to collaborate on beginner-friendly projects
+- 📫 How to reach me: [www.linkedin.com/in/nandana-r-960069329]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+## GitHub Stats
+
+
+![Nandana's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandana-remesh&show_icons=true&theme=tokyonight)
