@@ -1,11 +1,11 @@
-# Hi there, I'm Nandana! 👋
+# Hey there, I'm Nandana! 👋
 
 🎓 2nd year B.Tech Computer Science Student  
 💻 Passionate about technology and building things
 🚀 Looking for internship opportunities  
 
 ## About Me
-- 🌱 I'm currently focused on my cs core subjects
+- 🌱 I'm currently focused on my degree
 - 👁️ Soon diving into **Web Development**
 - 👯 I'm looking to collaborate on beginner-friendly projects
 - 📫 How to reach me: [www.linkedin.com/in/nandana-r-960069329]
